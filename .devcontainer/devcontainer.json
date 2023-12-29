@@ -1,0 +1,4 @@
+{
+  "name": "test-dev-container",
+  "image": "ghcr.io/n3ddu8/ubuntu-odbc:main"
+}
